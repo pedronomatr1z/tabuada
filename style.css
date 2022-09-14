@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body{
+    font-size: 32px;
+    background-image: url(img/img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: bisque;
+    font-family: 'Oswald';
+}
+
+#saida{
+    text-align: center;
+    align-items: center;
+}
+
+strong{
+    color: rgb(223, 182, 0);
+}
